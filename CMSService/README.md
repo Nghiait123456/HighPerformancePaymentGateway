@@ -1,0 +1,1 @@
+service for admin and partner check info payment gateway
